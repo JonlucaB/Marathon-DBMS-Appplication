@@ -1,0 +1,5 @@
+username - password
+
+javacon - java
+
+readonly - java

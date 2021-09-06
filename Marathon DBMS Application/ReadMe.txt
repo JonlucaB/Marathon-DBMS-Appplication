@@ -7,3 +7,5 @@ my raw code and providing (hopefully in the future) a video demonstrating its fu
 
 This application lets the user login to a MySQL database, and with their appropriate priveleges they can view, search, insert, delete, and edit the data. The data
 consists of basic member data for a hypothetical marathon. It contains an auto-incrementing ID, name, date of birth, gender, and rank/placement in the marathon. 
+
+To view the java code, please refer to the 'src' folder
